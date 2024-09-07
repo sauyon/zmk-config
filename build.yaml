@@ -20,8 +20,3 @@
 include:
   - board: nrfmicro_13
     shield: two_percent_milk
-include:
-  - board: nrfmicro_13
-    shield: clog_left
-  - board: nrfmicro_13
-    shield: clog_right
